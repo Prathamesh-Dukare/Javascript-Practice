@@ -1,0 +1,1 @@
+ponse => Response.json()).then(json => console.log(json))

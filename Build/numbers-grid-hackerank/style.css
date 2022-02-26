@@ -1,0 +1,12 @@
+#btns{
+    width: 75%;
+
+}
+/* .col{
+    width: 33%;
+} */
+button{
+    width: 3%;
+    height:48px ;
+    font-size: 24px;
+}

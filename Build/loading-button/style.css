@@ -1,0 +1,10 @@
+:section{
+    color: blue;
+    --primary : #1ae44c;
+    --secondary : #b42f2f;
+}
+
+#loading-text{
+    display: none;
+    /* color: var(--primary); */
+}

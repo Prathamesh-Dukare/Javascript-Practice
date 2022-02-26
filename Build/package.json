@@ -1,0 +1,14 @@
+{
+  "name": "readline-sync",
+  "version": "1.0.0",
+  "description": "readline-sync",
+  "main": "user-input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
