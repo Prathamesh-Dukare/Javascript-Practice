@@ -9,7 +9,7 @@ console.log(v, arr[0])
 
 // in function parameters value and arr are initialized as let value; and let arr;
 
-// the reason we get arr modified in the function is , the array is a Object which referes to the intial arr memory location. so the original arrray is modified
+// the reason we get arr modified in the function is , the array is a Object which referes to the intial arr memory location. so, the original arrray is modified
 
 // in order to not happen this , while Passing arguments to a function 
 // ==> foo(v,[...arr])
